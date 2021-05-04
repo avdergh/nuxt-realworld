@@ -1,9 +1,8 @@
 # Realworld Nuxt
 
-> 项目改造：https://github.com/gothinkster/realworld-starter-kit
+
 > Demo 预览地址: http://realworld.bruski.wang/
 
-使用 Nuxt.js 实现 realworld-starter 项目
 
 功能：
 
@@ -184,10 +183,6 @@ module.exports = {
   </div>
 </div>
 ```
-
-### 导入设置、文章页
-
-代码详情见：https://github.com/gothinkster/realworld-starter-kit/blob/master/FRONTEND_INSTRUCTIONS.md#loginregister
 
 ### 调整所有的超链接标签
 
